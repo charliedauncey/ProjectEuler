@@ -1,0 +1,14 @@
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\bin\Debug\Problem 3.2.exe.config
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\bin\Debug\Problem 3.2.exe
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\bin\Debug\Problem 3.2.pdb
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\obj\Debug\Problem 3.2.csprojAssemblyReference.cache
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\obj\Debug\Problem 3.2.csproj.CoreCompileInputs.cache
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\obj\Debug\Problem 3.2.exe
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\obj\Debug\Problem 3.2.pdb
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\bin\Debug\Problem 3.2.exe.config
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\bin\Debug\Problem 3.2.exe
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\bin\Debug\Problem 3.2.pdb
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\obj\Debug\Problem 3.2.csprojAssemblyReference.cache
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\obj\Debug\Problem 3.2.csproj.CoreCompileInputs.cache
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\obj\Debug\Problem 3.2.exe
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Problem 3.2\Problem 3.2\Problem 3.2\obj\Debug\Problem 3.2.pdb

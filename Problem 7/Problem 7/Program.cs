@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+
+public class Problem_7
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var n = 125000;
+            List<int> AllNumbers = new List<int>();
+            var a = 20;
+
+            for(var i=1; i <= n; i++)
+            {
+                var b = a++;
+                AllNumbers.Add(b);
+            }
+            List<int> Primes = new List<int>() { 2, 3, 5, 7, 11, 13, 17, 19};
+                foreach (int i in AllNumbers)
+                {
+                    bool isPrime = false;
+                    int index = 0;
+                    while (!isPrime && index < Primes.Count)
+                    {
+                        if (i % Primes[index] == 0)
+                        {
+                            isPrime = true;
+                        }
+                        else
+                        {
+                            index += 1;
+                        }
+                    }
+                    if (isPrime == false)
+                    {
+                        Primes.Add(i);
+                    }
+
+                }
+                Primes.Add(1);
+            Console.WriteLine(Primes[10000]);
+        
+        }
+    }
+}

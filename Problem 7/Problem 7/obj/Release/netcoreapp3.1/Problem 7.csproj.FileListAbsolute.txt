@@ -1,0 +1,10 @@
+C:\Users\Connor\OneDrive\Documents\C# Training\Problem 7\Problem 7\bin\Release\netcoreapp3.1\Problem 7.exe
+C:\Users\Connor\OneDrive\Documents\C# Training\Problem 7\Problem 7\bin\Release\netcoreapp3.1\Problem 7.deps.json
+C:\Users\Connor\OneDrive\Documents\C# Training\Problem 7\Problem 7\bin\Release\netcoreapp3.1\Problem 7.runtimeconfig.json
+C:\Users\Connor\OneDrive\Documents\C# Training\Problem 7\Problem 7\bin\Release\netcoreapp3.1\Problem 7.runtimeconfig.dev.json
+C:\Users\Connor\OneDrive\Documents\C# Training\Problem 7\Problem 7\bin\Release\netcoreapp3.1\Problem 7.dll
+C:\Users\Connor\OneDrive\Documents\C# Training\Problem 7\Problem 7\bin\Release\netcoreapp3.1\Problem 7.pdb
+C:\Users\Connor\OneDrive\Documents\C# Training\Problem 7\Problem 7\obj\Release\netcoreapp3.1\Problem 7.AssemblyInfoInputs.cache
+C:\Users\Connor\OneDrive\Documents\C# Training\Problem 7\Problem 7\obj\Release\netcoreapp3.1\Problem 7.AssemblyInfo.cs
+C:\Users\Connor\OneDrive\Documents\C# Training\Problem 7\Problem 7\obj\Release\netcoreapp3.1\Problem 7.dll
+C:\Users\Connor\OneDrive\Documents\C# Training\Problem 7\Problem 7\obj\Release\netcoreapp3.1\Problem 7.pdb

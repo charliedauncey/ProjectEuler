@@ -1,0 +1,7 @@
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 6\Problem 6\bin\Debug\Problem 6.exe.config
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 6\Problem 6\bin\Debug\Problem 6.exe
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 6\Problem 6\bin\Debug\Problem 6.pdb
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 6\Problem 6\obj\Debug\Problem 6.csprojAssemblyReference.cache
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 6\Problem 6\obj\Debug\Problem 6.csproj.CoreCompileInputs.cache
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 6\Problem 6\obj\Debug\Problem 6.exe
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Problem 6\Problem 6\obj\Debug\Problem 6.pdb

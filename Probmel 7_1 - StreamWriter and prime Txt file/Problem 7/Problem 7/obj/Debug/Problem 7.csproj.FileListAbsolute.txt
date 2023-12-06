@@ -1,0 +1,14 @@
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Probmel 7_1\Problem 7\Problem 7\bin\Debug\Problem 7.exe.config
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Probmel 7_1\Problem 7\Problem 7\bin\Debug\Problem 7.exe
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Probmel 7_1\Problem 7\Problem 7\bin\Debug\Problem 7.pdb
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Probmel 7_1\Problem 7\Problem 7\obj\Debug\Problem 7.csprojAssemblyReference.cache
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Probmel 7_1\Problem 7\Problem 7\obj\Debug\Problem 7.csproj.CoreCompileInputs.cache
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Probmel 7_1\Problem 7\Problem 7\obj\Debug\Problem 7.exe
+C:\Users\charlie.dauncey\Documents\C# Training\Project Euler\Probmel 7_1\Problem 7\Problem 7\obj\Debug\Problem 7.pdb
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Probmel 7_1 - StreamWriter and prime Txt file\Problem 7\Problem 7\bin\Debug\Problem 7.exe.config
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Probmel 7_1 - StreamWriter and prime Txt file\Problem 7\Problem 7\bin\Debug\Problem 7.exe
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Probmel 7_1 - StreamWriter and prime Txt file\Problem 7\Problem 7\bin\Debug\Problem 7.pdb
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Probmel 7_1 - StreamWriter and prime Txt file\Problem 7\Problem 7\obj\Debug\Problem 7.csprojAssemblyReference.cache
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Probmel 7_1 - StreamWriter and prime Txt file\Problem 7\Problem 7\obj\Debug\Problem 7.csproj.CoreCompileInputs.cache
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Probmel 7_1 - StreamWriter and prime Txt file\Problem 7\Problem 7\obj\Debug\Problem 7.exe
+C:\Users\Connor\OneDrive\Documents\C# Training\C# Training\Project Euler\Probmel 7_1 - StreamWriter and prime Txt file\Problem 7\Problem 7\obj\Debug\Problem 7.pdb

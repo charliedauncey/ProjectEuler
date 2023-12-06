@@ -1,0 +1,7 @@
+C:\Users\Connor\Desktop\Project Euler\Problem 67\Problem 67\obj\Debug\Problem 67.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\Project Euler\Problem 67\Problem 67\obj\Debug\Problem 67.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\Project Euler\Problem 67\Problem 67\bin\Debug\Problem 67.exe.config
+C:\Users\Connor\Desktop\Project Euler\Problem 67\Problem 67\bin\Debug\Problem 67.exe
+C:\Users\Connor\Desktop\Project Euler\Problem 67\Problem 67\bin\Debug\Problem 67.pdb
+C:\Users\Connor\Desktop\Project Euler\Problem 67\Problem 67\obj\Debug\Problem 67.exe
+C:\Users\Connor\Desktop\Project Euler\Problem 67\Problem 67\obj\Debug\Problem 67.pdb
